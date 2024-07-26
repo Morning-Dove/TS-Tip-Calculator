@@ -1,9 +1,8 @@
+import React from 'react';
 import './App.css';
 import Calculator from "./Calculator";
 
-
-function App() {
-
+const App: React.FC = () => {
   return (
     <>
       <header>
@@ -16,7 +15,7 @@ function App() {
         <p>Created By: Morning Dove Nelson 2024</p>
       </footer>
     </>
-  )
+  );
 }
 
 export default App;
