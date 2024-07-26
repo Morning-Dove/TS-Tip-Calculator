@@ -70,7 +70,7 @@ const Calculator: React.FC = () => {
                         id="tipPercentage"
                         value={tipPercentage}
                         onChange={handleTipPercentage}
-                        placeholder='Enter tip percentage Here as a whole number...'
+                        placeholder='Enter Tip Percentage Here...'
                     />
                 </div>
                 <div>

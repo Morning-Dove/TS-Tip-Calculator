@@ -2,6 +2,10 @@
 
 This is a simple Tip Calculator built using React and TypeScript. The application allows users to input a bill amount and a tip percentage, then calculates and displays the tip amount and the total bill amount based on the user's inputs.
 
+To view this app on GitHub Pages please click the link below:
+
+https://morning-dove.github.io/TS-Tip-Calculator/
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
